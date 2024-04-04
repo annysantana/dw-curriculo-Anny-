@@ -1,0 +1,26 @@
+h1{
+    font-size: 32px;
+    text-align: center;
+    color:rgb(184, 175, 235);
+}
+
+h2 {
+    font-size: 24px;
+    color:blueviolet;
+}
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+
+blockquote { 
+    font-style: italic;
+    background-color: brown;
+    border-left: 4px;
+}
